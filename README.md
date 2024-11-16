@@ -39,7 +39,7 @@ If you haven’t watched these yet, I highly recommend checking them out! Here�
 ### Posters 🎨  
 ![Inside Out Poster](https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg)  
 ![Transformers Poster](https://upload.wikimedia.org/wikipedia/en/6/66/Transformers07.jpg)  
-![Gyeongseong Creature Poster](https://via.placeholder.com/150x200?text=Gyeongseong+Creature+Poster)
+![Gyeongseong Creature Poster](https://image.tmdb.org/t/p/original/rrUrM5MEFLSoIXC60c0iNxvgTrQ.jpg)
 
 ---
 ### My Rating ⭐  
